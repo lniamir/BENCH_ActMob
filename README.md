@@ -1,12 +1,12 @@
-```markdown
 # BENCH_ActMob (Active Mobility)
 
 ## Model Specifications
-* **Paper Name:** Urban Strategies for Active Mobility in Vienna
+* **Paper Name:** [Urban Strategies for Active Mobility in Vienna](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6604470)
 * **Journal / Medium:** SSRN
 * **Year:** 2026
 * **Authors:** Áron Dénes Hartvig, Leila Niamir
 * **Calibration Area:** Vienna
+* **Code DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20847261-blue)](https://doi.org/10.5281/zenodo.20847261)
 
 ## Technical Stack & Environment
 * **Language:** Python
@@ -25,3 +25,4 @@ uv sync
 
 # Execute the simulation entrypoint using the locked environment
 uv run python run_BENCH_Mobility.py
+```
